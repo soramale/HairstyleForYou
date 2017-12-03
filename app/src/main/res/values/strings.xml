@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">Hairstyle For You</string>
+
+    <string name="round_short"> THE CUT \n
+        A gamine with spiky layers sliced all around the crown like Ginnifer Goodwins chop. \n \n
+        WHY IT WORKS \n
+        "If you're going to go short, go short all the way," says legendary celebrity hairstylist Garren. Unlike a jaw-hugging bob,
+        this petite pixie downplays roundness in a big way. The choppy pieces up top add height, lengthen your face and emphasize your eyes. \n
+        \n
+        EXPERT TIP \n
+        This length is a cinch to style for straight, wavy and fine hair, but steer clear of it if you have curls-think poodle. \n
+        \n
+        TO STYLE \n
+        Styling short locks is easy with the Eva NYC Mini Healthy Heat Ceramic Flat Iron. Because of its miniature
+        size, you can actually grasp your shortest strands to totally transform your pixie.
+    </string>
+
+    <string name="round_medium">
+        THE CUT \n
+        Show off your features with a choppy, layered bob like Elizabeth Olsen. \n
+        \n
+        WHY IT WORKS \n
+        "I think that it also minimizes the face shape when you do go shorter because you don't have all this hair to create more of a round shape," says Olsen of a short bob. "It works here because she's chosen a side-part, so it gives something for the eye to follow."\n
+        \n
+        EXPERT TIP \n
+        "When you do a side-part, you want the first piece of your bang to break at your eye," notes Olsen. \n
+        \n
+        TO STYLE \n
+        Add in beachy waves with T3 Whirl Trio a product we wear by with interchangeable barrels.
+    </string>
+
+    <string name="round_long">
+        THE CUT \n
+        Long, barely there layers that hit at the jawline. \n
+        \n
+        WHY IT WORKS \n
+        Selena Gomez\'s long, staggered layers are an easy way to make your hair, not your face, seem fuller. A scattering of light
+        layers on the bottom keeps volume away from the sides (where you don?t need it) and focuses it near the ends (where you want it). \n
+        \n
+        EXPERT TIP \n
+        The long layers stop curls from ballooning around your cheeks and prevent fine hair from appearing stringy. \n
+        \n
+        TO STYLE \n
+        You, too, can play up your au naturel texture (and avoid damaging heat) by adding a bit of product. We prefer Pantene
+        Extra Strong Hold Level 4 for all-day volume and extra hold.
+    </string>
+
+    <string name="oval_short">
+        THE CUT \n
+        A blunt bob with minimal, subtle layers. \n
+        \n
+        WHY IT WORKS \n
+        "This face shape is the easiest to carry off any kind of haircut," says Tollo. Go for a strong lob with a little bit of
+        face-framing like Diana. \n
+        \n
+        EXPERT TIP \n
+        Pick your go-to, everyday hairstyle based on your natural hair part. That can be your guiding factor. \n
+        \n
+        TO STYLE \n
+        Because this cut is blunt by nature, play up your natural texture in the styling and stick with a center part. \n
+    </string>
+
+    <string name="oval_medium">
+        THE CUT \n
+        A sleek blowout that hits at the shoulder Ashley Benson\'s. \n
+        \n
+        WHY IT WORKS \n
+        Ashley Benson\'s layers may look uniform, but the difference is there. The subtle variations in length keep your strands
+        from lying flat against your head, which has an elongating effect. \n
+        \n
+        EXPERT TIP \n
+        If your hair is fine, keep uneven pieces around your face so hair looks as full and dense as possible. \n
+        \n
+        TO STYLE \n
+        For a high-gloss finish like Benson\'s, we\'re turning to Ouai Hair Oil. \n
+    </string>
+
+    <string name="oval_long">
+        THE CUT \n
+        Long strands paired with a retro texture and sweeping fringe. \n
+        \n
+        WHY IT WORKS \n
+        Got down-to-there hair? You\'ve probably had it up to here with stylists wanting to lop it off. No more. Side-swept bangs like
+        Amanda Seyfried\'s can shorten long faces as effectively as a pert bob. "You're covering the area between your hairline and brow, removing several inches from your face," says Garren. \n
+        \n
+        EXPERT TIP \n
+        Keep fine hair shoulder-length and flighty bangs centered by blow-drying. \n
+        \n
+        TO STYLE \n
+        You can easily create old-fashioned waves like Seyfried\'s with a large-barrel curling iron, a paddle brush
+        , and hair pins. Curl, gently brush, and pin back the sides to get the look.
+    </string>
+
+    <string name="heart_short">
+        THE CUT \n
+        A coy pixie that’s clipped evenly on the sides and nape with short layers on top. \n
+        \n
+        WHY IT WORKS \n
+        Halle Berry’s tousled cut is dynamic enough to cancel out a pronounced jawline, while the choppy layers break up a wide forehead. \n
+        \n
+        EXPERT TIP \n
+        Corkscrew curls and cropped hair don’t mix. To avoid a top-heavy effect that will exaggerate your chin, dense strands need
+        to be sliced into. \n
+        \n
+        TO STYLE \n
+        To extend the life of your whispy pixie do, try Living Proof Prime Style Extender. It\'s weightless so that
+        your strands stay upright and ensures your style will last up to two times longer.
+    </string>
+
+    <string name="heart_medium">
+        THE CUT \n
+        A collarbone-length crop with sweeping bangs and uniform layers. \n
+        \n
+        WHY IT WORKS \n
+        Actress Scarlett Johansson looks radiant with her short, choppy bob. This hairstyle is all about texture –
+        cast aside your heat styling tools and your hair-taming products and embrace the fuzz! When going short make sure you get your
+        hair cut by a stylist you trust to avoid hair mishaps and unnecessary tears. \n
+        \n
+        EXPERT TIP \n
+        This is perfect for hair that has some body, but not the coarse or curly variety. "You\'ll get too much volume up top," says Johansson. \n
+        \n
+        TO STYLE \n
+        For a full-bodied look like Johansson\'s, we swear by the GHD Air Hair Dryer. It\'s powerful enough to cut down on drying
+        time while leaving hair soft, shiny and frizz-free.
+    </string>
+
+    <string name="heart_long">
+        THE CUT \n
+        Long hair with longer layers or fringe. \n
+        \n
+        WHY IT WORKS \n
+        The unofficial heart-shaped face ambassador, Reese Witherspoon, shows off yet another
+        stunning hairstyle. Here she sports long, wavy hair with short angular bangs. Angular bangs work well to create the
+        illusion of a longer face, and they give your haircut a modern edge. \n
+        \n
+        EXPERT TIP \n
+        This look is easy to pull off, regardless of texture. If your hair is on the fine or sparse side, keep the layers long
+        and concentrated closer to the ends. \n
+        \n
+        TO STYLE \n
+        Keep things wispy like Witherspoon and go for a texturizing spray or let your hair air-dry.
+    </string>
+
+    <string name="square_short">
+        THE CUT \n
+        A short layered bob with subtle bangs. \n
+        \n
+        WHY IT WORKS \n
+        Troian Bellisario\'s cut brings the focus higher and puts the emphasis on your cheekbones, rather than your jaw. \n
+        \n
+        EXPERT TIP \n
+        Dense strands could puff out at this length, so be sure to tame any frizzy pieces with a quick pass of a flat iron. \n
+        \n
+        TO STYLE \n
+        Here, Bellisario kept her short hairstyle and cut fairly au naturel and maintenance free—except for her platinum color.
+        To subtly touch up roots from home—witthout having to see a colorist—try Madison Reed Root Touch Up. \n
+    </string>
+
+    <string name="square_medium">
+        THE CUT \n
+        Light shoulder-length layers all around that start a few inches above the ends with sweeping bangs. \n
+        \n
+        WHY IT WORKS \n
+        Feathery layers (which can be achieved with a razor) like Lucy Hale\'s camouflage a strong chin. "The airy ends prevent the eye from noticing any sharp corners," says Garren. He recommends parting at the side for an asymmetrical effect, which
+        also offsets squareness. \n
+        \n
+        EXPERT TIP \n
+        The layers pump up any hair type. \n
+        \n
+        TO STYLE \n
+        Even if you don\'t have wavy texture like Hale\'s, you can still get that naturally texturized look with DevaCurl Wave Maker. \n
+    </string>
+
+    <string name="square_long">
+        THE CUT \n
+        Collarbone-skimming strands with slight bangs that hit at the cheekbone. \n
+        \n
+        WHY IT WORKS \n
+        Long locks are flattering, but you want to avoid a "simplistic" look with blunt ends, says Garren.
+        There\'s nothing ho-hum or harsh about Shay Mitchell\'s structured ringlets. The airy fringe and light scattering of
+        layers "get rid of angles and soften the entire face, top to bottom," says Garren. \n
+        \n
+        EXPERT TIP \n
+        Keep layers to a minimum if your strands are fine. \n
+        \n
+        TO STYLE \n
+        The Bio Iconic Curl Expert Pro Curling Iron works like a charm and this one with a 1" barrel will give you tight curls like Mitchell\'s.
+    </string>
+</resources>
